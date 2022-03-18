@@ -36,9 +36,24 @@ header, footer{
 
 
 header{
-    background-color: #e579e6;
     margin-top: 15px;
     min-height: 100px;
+}
+
+.logo{
+    width: 170px;
+    height: 70px;
+    margin-bottom: 20px;
+}
+
+li{
+    display: inline-block;
+    margin: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: #878787;
 }
 
 /* main prima parte */
