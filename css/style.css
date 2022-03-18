@@ -59,9 +59,19 @@ a{
 /* main prima parte */
 
 .hero{
-    background-color: #e1d67a;
     margin-bottom: 15px;
     min-height: 500px;
+}
+
+.banner{
+    border-radius: 10px;
+}
+
+.title{
+    max-width: 420px;
+    position: absolute;
+    top: 550px;
+    left: 200px;
 }
 
 /* main seconda parte */
