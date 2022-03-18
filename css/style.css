@@ -33,6 +33,7 @@ header, footer{
 
 .box-blu p, small{
     color: #878787;
+    font-weight: lighter;
 }
 
 .sfondo-img{
@@ -106,12 +107,25 @@ a{
 .title{
     max-width: 420px;
     position: absolute;
-    top: 350px;
-    left: 150px;
+    bottom: 70px;
+    left: 70px;
     color: #ffffff;
 }
 
 /* main seconda parte */
+
+h1 > p{
+    font-size: smaller;
+}
+
+.box-blu h1{
+    font-weight: 800;
+    font-size: 700;
+}
+
+.box-blu h3{
+    font-weight: lighter;
+}
 
 .titolo-art{
     width: 100%;
@@ -129,6 +143,7 @@ a{
 footer{
     margin-top: 10px;
     min-height: 50px;
+    text-align: center;
 }
 
 .cuore{
