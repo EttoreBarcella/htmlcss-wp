@@ -66,14 +66,10 @@ a{
 
 .hero{
     margin-bottom: 15px;
-    min-height: 500px;
+    height: 550px;
     position: relative;
     background-color: black;
     border-radius: 10px;
-}
-
-.container-banner{
-    height: 550px;
 }
 
 .banner{
@@ -93,7 +89,6 @@ a{
 }
 
 /* main seconda parte */
-
 
 
 .img-left, .img-right{
