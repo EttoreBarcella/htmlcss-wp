@@ -104,7 +104,10 @@ a{
 /* footer */
 
 footer{
-    background-color: #8801fe;
     margin-top: 10px;
     min-height: 50px;
+}
+
+.cuore{
+    color: red;
 }
